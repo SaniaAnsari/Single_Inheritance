@@ -5,4 +5,4 @@ This concept is a part of Object-Oriented Programming (OOP).<br>
 1:A base class (parent) with some common properties and methods.<br>
 2:A derived class (child) that extends the base class.<br>
 3:A main class to run and test the inheritance concept.<br>
-
+delete this repository 
